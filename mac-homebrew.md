@@ -26,13 +26,13 @@
     mysql.server stop
 ##将mysql添加为自启动的服务
 
-    brew services start mysql
+    brew services start mysql
 ##停止mysql服务
     
     [sudo] brew services stop mysql
 ##查看brew添加过的服务
 
-    brew services list
+    brew services list
 ##查看brew services命令的帮助
 
-    brew services
+    brew services
