@@ -21,7 +21,7 @@
 </script>
 ```
 在浏览器中显示的结果  
-[!]()  
+![image](https://github.com/muyea/some-dev-exp/blob/master/front-end/img-1001.png)  
 可以看到本来应该绘制的圆形被拉伸，变成了一个椭圆
 原因：canvas（默认大小：300px*150px）相当于一张
 图片，css或style设置canvas的属性与设置img属性一样，不
@@ -57,5 +57,5 @@
 </script>
 ```
 显示结果
-
+![image](https://github.com/muyea/some-dev-exp/blob/master/front-end/img-1002.png)
 
